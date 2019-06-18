@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE myportfolio PUBLIC "GossJS" "https://kodaktor.ru/j/dtd_721b8">
+<myportfolio>
+	<mycompetencies>
+		<competency in="HTML" value="good" />
+		<competency in="CSS" value="good" />
+		<competency in="PHP" value="good" />
+		<competency in="JS" value="worse, but not bad" />
+		<competency in="Python" value="worse, but not bad" />		
+	</mycompetencies>
+</myportfolio>
